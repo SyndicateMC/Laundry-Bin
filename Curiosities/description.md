@@ -22,6 +22,14 @@ __Nickel__ is a new conductive and heat-resistant metal, being able to be used i
 
 __Invar__ is a new ancient alloy made with Ancient Scrap (was Netherite Scrap), Iron, and Nickel. Invar is the "immutable substance", used to make durable armor that provides **FLAT DAMAGE REDUCTION** and tools that can pierce armor and damage resistances. It can also be used to make new Invar Weights, blocks that are effected by gravity and will fall after a certain amount of time (dictated by the amount of Invar used to craft them).
 
+There is also some misc content! This mostly includes the extra little decor like Tiki Torches or Laterite... and Incense!
+
+Incense are a new type of torch-like block that can be placed down and lit to provide healing-centric buffs in an area around them! **Acrid** Incense will provide a damage bonus, and make you heal when dealing damage! **Bland** Incense will nullify certain effects, and provide healing when a effect is nullified (effect list can be configured). **Bright** Incense will provide a bonus to experience gains, and heal you upon collecting experience. **Fresh** Incense is more boring, providing passive regeneration when wet (when in water or rain). **Sweet** Incense provides bonus nutrition and saturation when eating food, and will heal you for a portion of food eaten! And lastly, **Verdant** Incense will increase the effectiveness of all healing, synergizing well with the other incenses!
+
+Incense are temporary, burning out after one minute. This can be mitgated by making a **Censer**! These blocks function as the lantern-equivalant to incense, having their placement logic (ie. can be hung from certain blocks) and can also be waterlogged (works really well for Fresh Censers!). They won't burn out, affect a larger area, but are only half as effective as Incense, making their temporary counterpart not entirely useless once you obtain a Censor!
+
+There are other bits and bobs all throughout the mod that are not explicitly stated here, and it's your job to go and look for them! Have fun!
+
 ![divvy](https://github.com/SyndicateMC/Laundry-Bin/blob/main/General/Icons/divider.png?raw=true)
 
 ### 📦**Cross-Compatibility:**
